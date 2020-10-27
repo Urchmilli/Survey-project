@@ -1,0 +1,23 @@
+body {
+    background-color:white;
+}
+h1 {
+    background-color: seashell;
+    text-decoration-color: darkkhaki;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 150%;
+    border:1px solid black;
+    padding 20px;
+}
+p {
+    background-color: burlywood;
+    text-decoration-color: darkkhaki;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    border: 1px solid black;
+    padding: 20px
+
+}
+b {
+    background-color: dark blue
+}
